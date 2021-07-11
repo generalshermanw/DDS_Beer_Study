@@ -1,10 +1,8 @@
 # DDS_Beer_Study
 Week 12 - DDS 6306 - Summer '21
 
-## Author:
+## Authors:
 - Will Sherman    wsherman@mail.smu.edu
-
-## Contributors: 
 - Kati Schuerger  kschuerger@mail.smu.edu
 - Randy Kim       randyk@mail.smu.edu
 
